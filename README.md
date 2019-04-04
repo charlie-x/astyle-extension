@@ -1,6 +1,8 @@
 astyle-extension
 ================
 
+(charlie: stil WIP, fix a crash bug and update to an AsyncPackage)
+
 An extension for Visual Studio, AVR Studio and Atmel Studio to format C/C++ and C# documents using Artistic Style engine.
 
 More info on Artistic Style at http://astyle.sourceforge.net/
