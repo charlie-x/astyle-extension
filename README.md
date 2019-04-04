@@ -16,10 +16,13 @@ Supported Visual Studio editions:
     Atmel Studio 6
     Atmel Studio 7
 
+Todo: 
+    Update to AsyncPackage (which may break prior VS 2019)
+    Check if 3.1 AStyle needs any new options on GUI and config exposed.
 
 
 Changelog:
-
+    Version 3.1 (April 04 2019) - Updated to Astyle 3.1; Set support to Visual Studio 2019
     Version 3.0 (April 10 2017) - Upgraded GUI to Artistic Style 3.0; Added support for Visual Studio 2017.
     Version 2.8 (January 08 2017) - Upgraded GUI to Artistic Style 2.0.6; Added preliminary support for Visual Studio 2017.
     Version 2.7 (October 7 2015) - Fixed --indent-preproc-block checkbox. Added support for Atmel Studio 7.0.
